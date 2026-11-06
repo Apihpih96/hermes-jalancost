@@ -1,0 +1,10 @@
+name: jalancost
+version: "0.1.0"
+manifest_version: 2
+api_version: 1
+requires_hermes: ">=0.22.7"
+license: MIT
+description: Offline Malaysian road-trip fuel and toll cost estimates from user-supplied inputs.
+tags: [travel, calculator, malaysia]
+provides_tools:
+  - estimate_road_trip_cost
